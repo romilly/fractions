@@ -1,4 +1,4 @@
-Attempt at implementing fractions on the Microbit.
+There is a problem with multiplication/division at present.
 
-There is a mysterious problems with multiplication at present. It ;ools like a bug in the micro:bit version of
-MicroPython
+This is due to some omitted features in the current release of MicroPython for the micro:bit
+which might get implemented at some point.
